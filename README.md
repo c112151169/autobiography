@@ -1,16 +1,108 @@
-# autobiography
+# ✨ autobiography — Flutter 個人自傳 APP
 
-A new Flutter project.
+這是一款以 Flutter 製作的 **個人自傳 + 學習歷程 + 學習計畫 + 專業技能展示 App**。  
+整體 UI 採用 **Material You (Google M3)** 設計語言：乾淨、柔和、有呼吸感。  
+非常適合作為 **作品集、面試展示、個人簡介 App**。
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 APP 主要功能
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📝 Screen1 — 個人自傳（Who am I）
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**特色：**
+- 精美排版、自動分段
+- 使用 RichText 強調段落重點
+- 柔和圓角卡片 & 陰影提升閱讀體驗
+- 行距、字體全面優化（Google Fonts — Noto Sans TC）
+
+**內容包含：**
+- 出生於馬來西亞的家庭背景  
+- 父親從事批發、母親為家庭主婦  
+- 兄妹三人（哥哥打工、妹妹就讀高中）  
+- 小時候活潑好動，擔任班長、糾察隊、校隊運動員  
+- 國高中就讀工科，開始接觸排球  
+- 大二加入社團、系排與系學會，培養溝通能力與團隊合作
+
+---
+
+## 📚 Screen2 — 學習歷程（Timeline Cards）
+
+以 **Material You 卡片風格** 呈現完整的成長與學習軌跡：
+
+### 👶 國小
+- 擔任班長  
+- 擔任糾察隊  
+- 校隊運動員  
+- 個性活潑、善於嘗試新事物
+
+### 🏫 國中
+- 選擇工科  
+- 開始接觸實作與技術領域  
+- 逐漸找到自己擅長的方向
+
+### 🎒 高中
+- 加入排球校隊  
+- 養成抗壓性與團隊合作能力  
+- 技術學科表現穩定
+
+### 🎓 大學
+- 就讀資訊工程領域  
+- 開始化深入程式設計（C / Python / Flutter）  
+- 參與系排、社團、系學會提升軟實力  
+- 建立自己的作品集
+
+---
+
+## 🎯 Screen3 — 學習計畫（四年規劃）
+
+使用卡片 + 清單方式組成的 **大學生四年學習地圖**：
+
+### 🧩 大一：基礎打底
+- 打穩英文能力  
+- 學習 C / Python 程式語言  
+- 適應大學生活  
+- 培養自主學習習慣  
+
+### 🚀 大二：技能強化
+- 資料結構、演算法  
+- Flutter App 開發  
+- 參加系排、社團  
+- 小型 side project
+
+### 🔬 大三：專業探索
+- 專題製作  
+- AI / 大數據等領域探索  
+- 建立正式作品集  
+- 參加競賽或課外研習  
+
+### 🏁 大四：實務應用
+- 企業實習  
+- 完成專題  
+- 面試準備  
+- 規劃職涯方向  
+
+---
+
+## 🧑‍💻 Screen4 — 專業方向（Skills & Future）
+
+展示你的能力樹與未來願景：
+
+### 🔧 技能樹 Skills
+- Flutter / App 開發  
+- C / Python 基礎程式  
+- 網路與系統基礎知識  
+- 前端基礎（HTML / CSS）  
+- 問題分析與解決能力  
+- 版本控制（Git / GitHub）  
+
+### 🌟 未來方向 Future
+- 精進 Flutter 開發  
+- 深入 AI 影像處理、資料分析  
+- 建立更多完整 App Project  
+- 擴展個人作品集，用於求職/升學  
+
+---
+
